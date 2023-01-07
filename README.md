@@ -1,4 +1,4 @@
-## FE GG
+## FE GG 🎮
 
 Language: typescript
 <br/>
