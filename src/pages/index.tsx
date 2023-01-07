@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>FE.GG</div>;
+  return <div>별이 브랜치!</div>;
 }
